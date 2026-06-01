@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "alg": "RS384",
+      "e": "AQAB",
+      "kid": "my-key-123",
+      "kty": "RSA",
+      "n": "qN2dmMuMf4_A7-mXS7j37OJ9tfrIIxulADBwgQLKraIB7sk9qWVAZ1SoruF8VbZbU11zoN_iQxTUF9Y4jBr3KOtig3sDgab-FELzAXzcG3WekZRZZIZFU2VpX3AnpoDmvZTELCT5OK68PoIbqevzDsUZ6oHPE-H5FkaPv8PHNhf8ADq7de0HULJgyldaIz8w_N-COmBNuyrdeOlvQgMmvepsrVsomu0CVaNRlnWWtT8hMGQ_j4DhKH2oY27smYvNVTy2asYFIv0yqUYYiYUZmGalrcnAur8d6Gd9zcBdP2ixzUhkwgOzVGj1036jI7ds4gelxXKeJ_M2krfXFJbbAQ",
+      "use": "sig"
+    }
+  ]
+}
