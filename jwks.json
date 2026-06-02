@@ -4,7 +4,7 @@
       "kty": "RSA",
       "kid": "my-key-123",
       "use": "sig",
-      "alg": "RS384",
+      "alg": "RS256",
       "n": "4h8ucJHMrHOSufn7JXwF8L4b_dtU_p5IjdOToswud_7xfhtpj9hr9qqiv72_-Kc9B5nmMTwCJcLiCE0XasB1RZt0BjOtPy3RiyAYegAYXbNaulMivtuz6LkhtkJv_5WOCG1nGcph40rzu-lKW5ko8_kay7TbYDI3fcIwv4jyFf9VqOYREP-J1-sdcE6CvovNXQOFi__CJndhqlBvLA3Yxa_RCd_ILBorG3NMl-M3xUPJOAyI6U0yDAJci7Vr_DWJXKlxpaWd6BuIvojTkcngkmYEdE1Ro3e5uHlYCMZod-wBt46rBmvL2LssCMqfxgHDvF6e-rnf5voRht-nWFPbAw",
       "e": "AQAB"
     }
